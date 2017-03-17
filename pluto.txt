@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adding pluto
+=======
+lovely but not strictly a planet, poor lonely pluto
+>>>>>>> 62c6d4d4259644784ebb9a5549376ebb0d9df93f
